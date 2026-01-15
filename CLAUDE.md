@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Autoimgm is a new Python project. The codebase is currently empty and ready for initial development.
+Autoimgm is a Python automation tool for Gakuen iDOLM@STER (学マス). The goal is to use AI to automatically play the game, increasing character affinity and obtaining achievements.
 
 ## License
 
